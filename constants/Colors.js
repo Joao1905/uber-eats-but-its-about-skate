@@ -1,0 +1,21 @@
+export default {
+    white: '#fff',
+    lightGray: '#eee',
+    almostLightGray: '#ccc',
+    black: '#000',
+    almostBlack: '#333',
+    blackAlpha: "rgba(0, 0, 0, 0.9)",
+    blackAlpha2: "rgba(0, 0, 0, 0.7)",
+    darkGray: '#888',
+    veryDarkGray: '#555',
+    brown: '#544',
+    cyan: '#12e3ab',
+    orange: '#ee844b',
+    lightOrange: '#ff955c',
+    green: '#5cd660',
+    lightGreen: '#6de771',
+    purple: '#5c66d6',
+    gray: '#aaa',
+    yellow: 'gold',
+    markerRed: '#ea3535'
+}
